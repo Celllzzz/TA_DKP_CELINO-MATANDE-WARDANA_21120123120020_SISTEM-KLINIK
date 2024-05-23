@@ -1,0 +1,1 @@
+a:3:{s:2:"id";s:1:"4";s:9:"drug_name";s:11:"Paracetamol";s:8:"quantity";s:2:"90";}
