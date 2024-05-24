@@ -102,7 +102,7 @@ table tr:hover {
 </style>
 
 
-<h2>Inventari Obat</h2>
+<h2>Inventaris Obat</h2>
 
 <h4>Tambah data obat:</h4>
 <button onclick="window.location.href='index3a.php'">Tambah data obat</button>
