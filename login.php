@@ -73,12 +73,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         .login-container button:hover {
             background-color: #45a049;
         }
-        .login-container .clear-btn {
-            background-color: #f44336;
-        }
-        .login-container .clear-btn:hover {
-            background-color: #e53935;
-        }
         .login-container p {
             margin-top: 20px;
             color: #ff0000;
@@ -96,9 +90,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             <input type="password" id="password" name="password" required>
             <br><br>
             <button type="submit">Login</button>
-            <br><br>
-            <button type="reset" class="clear-btn">Clear</button>
-            <br><br>
         </form>
     </div>
 </body>
